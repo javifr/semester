@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     semester (0.0.1)
-      rails (~> 4.0.4)
+      rails (>= 4.0.4)
 
 GEM
   remote: https://rubygems.org/
