@@ -1,3 +1,12 @@
 = Semester
 
-This project rocks and uses MIT-LICENSE.
+This gem adds several semester ( six months ) related functions to Date and DateTime.
+
+Here a list of this quite self-explanative functions:
+- beginning_of_semester
+- at_beginning_of_semester
+- end_of_semester
+- end_of_semester
+- prev_semester
+- last_semester
+- next_semester
