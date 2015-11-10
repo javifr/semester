@@ -102,5 +102,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bundler
+  rake
   semester!
   sqlite3
