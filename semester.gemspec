@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = Semester::VERSION
   s.authors     = ["Javier Fernández Riverola"]
   s.email       = ["jfernandezriverola@gmail.com"]
-  s.homepage    = "www.javifernandez.me"
+  s.homepage    = "http://www.javifernandez.me"
   s.summary     = "Semester related functions added to Date and DateTime in rails"
   s.description = "Semester related functions added to Date and DateTime in rails"
 
