@@ -7,11 +7,11 @@ require "semester/version"
 Gem::Specification.new do |s|
   s.name        = "semester"
   s.version     = Semester::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Semester."
-  s.description = "TODO: Description of Semester."
+  s.authors     = ["Javier Fernández Riverola"]
+  s.email       = ["jfernandezriverola@gmail.com"]
+  s.homepage    = "www.javifernandez.me"
+  s.summary     = "Semester related functions added to Date and DateTime in rails"
+  s.description = "Semester related functions added to Date and DateTime in rails"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
